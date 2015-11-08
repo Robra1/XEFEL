@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Pfeile</name>
+  <toolTip>Pfeile</toolTip>
+  <image>Pfeile/leftarrow.png</image>
+  <items>
+    <item name="leftarrow">
+      <command>\leftarrow</command>
+      <toolTip>leftarrow</toolTip>
+      <image>Pfeile/leftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightarrow">
+      <command>\rightarrow</command>
+      <toolTip>rightarrow</toolTip>
+      <image>Pfeile/rightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="uparrow">
+      <command>\uparrow</command>
+      <toolTip>uparrow</toolTip>
+      <image>Pfeile/uparrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="downarrow">
+      <command>\downarrow</command>
+      <toolTip>downarrow</toolTip>
+      <image>Pfeile/downarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftrightarrow">
+      <command>\leftrightarrow</command>
+      <toolTip>leftrightarrow</toolTip>
+      <image>Pfeile/leftrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="updownarrow">
+      <command>\updownarrow</command>
+      <toolTip>updownarrow</toolTip>
+      <image>Pfeile/updownarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigLeftarrow">
+      <command>\Leftarrow</command>
+      <toolTip>bigLeftarrow</toolTip>
+      <image>Pfeile/bigLeftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigRightarrow">
+      <command>\Rightarrow</command>
+      <toolTip>bigRightarrow</toolTip>
+      <image>Pfeile/bigRightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigUparrow">
+      <command>\Uparrow</command>
+      <toolTip>bigUparrow</toolTip>
+      <image>Pfeile/bigUparrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigDownarrow">
+      <command>\Downarrow</command>
+      <toolTip>bigDownarrow</toolTip>
+      <image>Pfeile/bigDownarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigLeftrightarrow">
+      <command>\Leftrightarrow</command>
+      <toolTip>bigLeftrightarrow</toolTip>
+      <image>Pfeile/bigLeftrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigUpdownarrow">
+      <command>\Updownarrow</command>
+      <toolTip>bigUpdownarrow</toolTip>
+      <image>Pfeile/bigUpdownarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="longleftarrow">
+      <command>\longleftarrow</command>
+      <toolTip>longleftarrow</toolTip>
+      <image>Pfeile/longleftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="longrightarrow">
+      <command>\longrightarrow</command>
+      <toolTip>longrightarrow</toolTip>
+      <image>Pfeile/longrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="longleftrightarrow">
+      <command>\longleftrightarrow</command>
+      <toolTip>longleftrightarrow</toolTip>
+      <image>Pfeile/longleftrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigLongleftarrow">
+      <command>\Longleftarrow</command>
+      <toolTip>bigLongleftarrow</toolTip>
+      <image>Pfeile/bigLongleftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigLongrightarrow">
+      <command>\Longrightarrow</command>
+      <toolTip>bigLongrightarrow</toolTip>
+      <image>Pfeile/bigLongrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigLongleftrightarrow">
+      <command>\Longleftrightarrow</command>
+      <toolTip>bigLongleftrightarrow</toolTip>
+      <image>Pfeile/bigLongleftrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nearrow">
+      <command>\nearrow</command>
+      <toolTip>nearrow</toolTip>
+      <image>Pfeile/nearrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nwarrow">
+      <command>\nwarrow</command>
+      <toolTip>nwarrow</toolTip>
+      <image>Pfeile/nwarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="searrow">
+      <command>\searrow </command>
+      <toolTip>searrow</toolTip>
+      <image>Pfeile/searrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="swarrow">
+      <command>\swarrow </command>
+      <toolTip>swarrow</toolTip>
+      <image>Pfeile/swarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nleftarrow">
+      <command>\nleftarrow</command>
+      <toolTip>nleftarrow</toolTip>
+      <image>Pfeile/nleftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nrightarrow">
+      <command>\nrightarrow</command>
+      <toolTip>nrightarrow</toolTip>
+      <image>Pfeile/nrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nleftrightarrow">
+      <command>\nleftrightarrow</command>
+      <toolTip>nleftrightarrow</toolTip>
+      <image>Pfeile/nleftrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nLeftarrow">
+      <command>\nLeftarrow</command>
+      <toolTip>nLeftarrow</toolTip>
+      <image>Pfeile/nLeftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nRightarrow">
+      <command>\nRightarrow</command>
+      <toolTip>nRightarrow</toolTip>
+      <image>Pfeile/nRightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="nLeftrightarrow">
+      <command>\nLeftrightarrow</command>
+      <toolTip>nLeftrightarrow</toolTip>
+      <image>Pfeile/nLeftrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="dashleftarrow">
+      <command>\dashleftarrow</command>
+      <toolTip>dashleftarrow</toolTip>
+      <image>Pfeile/dashleftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="dashrightarrow">
+      <command>\dashrightarrow</command>
+      <toolTip>dashrightarrow</toolTip>
+      <image>Pfeile/dashrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="mapsto">
+      <command>\mapsto</command>
+      <toolTip>mapsto</toolTip>
+      <image>Pfeile/mapsto.png</image>
+      <keys></keys>
+    </item>
+    <item name="longmapsto">
+      <command>\longmapsto</command>
+      <toolTip>longmapsto</toolTip>
+      <image>Pfeile/longmapsto.png</image>
+      <keys></keys>
+    </item>
+    <item name="hookleftarrow">
+      <command>\hookleftarrow</command>
+      <toolTip>hookleftarrow</toolTip>
+      <image>Pfeile/hookleftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="hookrightarrow">
+      <command>\hookrightarrow</command>
+      <toolTip>hookrightarrow</toolTip>
+      <image>Pfeile/hookrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftharpoonup">
+      <command>\leftharpoonup</command>
+      <toolTip>leftharpoonup</toolTip>
+      <image>Pfeile/leftharpoonup.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftharpoondown">
+      <command>\leftharpoondown</command>
+      <toolTip>leftharpoondown</toolTip>
+      <image>Pfeile/leftharpoondown.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightharpoonup">
+      <command>\rightharpoonup</command>
+      <toolTip>rightharpoonup</toolTip>
+      <image>Pfeile/rightharpoonup.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightharpoondown">
+      <command>\rightharpoondown</command>
+      <toolTip>rightharpoondown</toolTip>
+      <image>Pfeile/rightharpoondown.png</image>
+      <keys></keys>
+    </item>
+    <item name="upharpoonleft">
+      <command>\upharpoonleft</command>
+      <toolTip>upharpoonleft</toolTip>
+      <image>Pfeile/upharpoonleft.png</image>
+      <keys></keys>
+    </item>
+    <item name="upharpoonright">
+      <command>\upharpoonright</command>
+      <toolTip>upharpoonright</toolTip>
+      <image>Pfeile/upharpoonright.png</image>
+      <keys></keys>
+    </item>
+    <item name="downharpoonleft">
+      <command>\downharpoonleft</command>
+      <toolTip>downharpoonleft</toolTip>
+      <image>Pfeile/downharpoonleft.png</image>
+      <keys></keys>
+    </item>
+    <item name="downharpoonright">
+      <command>\downharpoonright </command>
+      <toolTip>downharpoonright</toolTip>
+      <image>Pfeile/downharpoonright.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftrightharpoons">
+      <command>\leftrightharpoons </command>
+      <toolTip>leftrightharpoons</toolTip>
+      <image>Pfeile/leftrightharpoons.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightleftharpoons">
+      <command>\rightleftharpoons </command>
+      <toolTip>rightleftharpoons</toolTip>
+      <image>Pfeile/rightleftharpoons.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftleftarrows">
+      <command>\leftleftarrows </command>
+      <toolTip>leftleftarrows</toolTip>
+      <image>Pfeile/leftleftarrows.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightrightarrows">
+      <command>\rightrightarrows </command>
+      <toolTip>rightrightarrows</toolTip>
+      <image>Pfeile/rightrightarrows.png</image>
+      <keys></keys>
+    </item>
+    <item name="upuparrows">
+      <command>\upuparrows </command>
+      <toolTip>upuparrows</toolTip>
+      <image>Pfeile/upuparrows.png</image>
+      <keys></keys>
+    </item>
+    <item name="downdownarrows">
+      <command>\downdownarrows </command>
+      <toolTip>downdownarrows</toolTip>
+      <image>Pfeile/downdownarrows.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftrightarrows">
+      <command>\leftrightarrows </command>
+      <toolTip>leftrightarrows</toolTip>
+      <image>Pfeile/leftrightarrows.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightleftarrows">
+      <command>\rightleftarrows </command>
+      <toolTip>rightleftarrows</toolTip>
+      <image>Pfeile/rightleftarrows.png</image>
+      <keys></keys>
+    </item>
+    <item name="looparrowleft">
+      <command>\looparrowleft </command>
+      <toolTip>looparrowleft</toolTip>
+      <image>Pfeile/looparrowleft.png</image>
+      <keys></keys>
+    </item>
+    <item name="looparrowright">
+      <command>\looparrowright </command>
+      <toolTip>looparrowright</toolTip>
+      <image>Pfeile/looparrowright.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftarrowtail">
+      <command>\leftarrowtail </command>
+      <toolTip>leftarrowtail</toolTip>
+      <image>Pfeile/leftarrowtail.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightarrowtail">
+      <command>\rightarrowtail </command>
+      <toolTip>rightarrowtail</toolTip>
+      <image>Pfeile/rightarrowtail.png</image>
+      <keys></keys>
+    </item>
+    <item name="Lsh">
+      <command>\Lsh </command>
+      <toolTip>Lsh</toolTip>
+      <image>Pfeile/Lsh.png</image>
+      <keys></keys>
+    </item>
+    <item name="Rsh">
+      <command>\Rsh </command>
+      <toolTip>Rsh</toolTip>
+      <image>Pfeile/Rsh.png</image>
+      <keys></keys>
+    </item>
+    <item name="Lleftarrow">
+      <command>\Lleftarrow </command>
+      <toolTip>Lleftarrow</toolTip>
+      <image>Pfeile/Lleftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="Rrightarrow">
+      <command>\Rrightarrow </command>
+      <toolTip>Rrightarrow</toolTip>
+      <image>Pfeile/Rrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="twoheadleftarrow">
+      <command>\twoheadleftarrow </command>
+      <toolTip>twoheadleftarrow</toolTip>
+      <image>Pfeile/twoheadleftarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="twoheadrightarrow">
+      <command>\twoheadrightarrow </command>
+      <toolTip>twoheadrightarrow</toolTip>
+      <image>Pfeile/twoheadrightarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="curvearrowleft">
+      <command>\curvearrowleft </command>
+      <toolTip>curvearrowleft</toolTip>
+      <image>Pfeile/curvearrowleft.png</image>
+      <keys></keys>
+    </item>
+    <item name="curvearrowright">
+      <command>\curvearrowright </command>
+      <toolTip>curvearrowright</toolTip>
+      <image>Pfeile/curvearrowright.png</image>
+      <keys></keys>
+    </item>
+    <item name="circlearrowleft">
+      <command>\circlearrowleft </command>
+      <toolTip>circlearrowleft</toolTip>
+      <image>Pfeile/circlearrowleft.png</image>
+      <keys></keys>
+    </item>
+    <item name="circlearrowright">
+      <command>\circlearrowright </command>
+      <toolTip>circlearrowright</toolTip>
+      <image>Pfeile/circlearrowright.png</image>
+      <keys></keys>
+    </item>
+    <item name="multimap">
+      <command>\multimap </command>
+      <toolTip>multimap</toolTip>
+      <image>Pfeile/multimap.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftrightsquigarrow">
+      <command>\leftrightsquigarrow </command>
+      <toolTip>leftrightsquigarrow</toolTip>
+      <image>Pfeile/leftrightsquigarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="leadsfrom">
+      <command>\leadsfrom </command>
+      <toolTip>leadsfrom</toolTip>
+      <image>Pfeile/leadsfrom.png</image>
+      <keys></keys>
+    </item>
+    <item name="leadsto">
+      <command>\leadsto </command>
+      <toolTip>leadsto</toolTip>
+      <image>Pfeile/leadsto.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftsquigarrow">
+      <command>\leftsquigarrow </command>
+      <toolTip>leftsquigarrow</toolTip>
+      <image>Pfeile/leftsquigarrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightsquigarrow">
+      <command>\rightsquigarrow </command>
+      <toolTip>rightsquigarrow</toolTip>
+      <image>Pfeile/rightsquigarrow.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

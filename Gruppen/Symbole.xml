@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Symbole</name>
+  <toolTip>Symbole</toolTip>
+  <image>Symbole/dot.png</image>
+  <items>
+    <item name="dot">
+      <command>\dot{%1}</command>
+      <toolTip>dot</toolTip>
+      <image>Symbole/dot.png</image>
+      <keys></keys>
+    </item>
+    <item name="dot2">
+      <command>\ddot{%1}</command>
+      <toolTip>dot2</toolTip>
+      <image>Symbole/dot2.png</image>
+      <keys></keys>
+    </item>
+    <item name="dot3">
+      <command>\dddot{%1}</command>
+      <toolTip>dot3</toolTip>
+      <image>Symbole/dot3.png</image>
+      <keys></keys>
+    </item>
+    <item name="dot4">
+      <command>\ddddot{%1}</command>
+      <toolTip>dot4</toolTip>
+      <image>Symbole/dot4.png</image>
+      <keys></keys>
+    </item>
+    <item name="hat">
+      <command>\hat{%1}</command>
+      <toolTip>hat</toolTip>
+      <image>Symbole/hat.png</image>
+      <keys></keys>
+    </item>
+    <item name="check">
+      <command>\check{%1}</command>
+      <toolTip>check</toolTip>
+      <image>Symbole/check.png</image>
+      <keys></keys>
+    </item>
+    <item name="acute">
+      <command>\acute{%1}</command>
+      <toolTip>acute</toolTip>
+      <image>Symbole/acute.png</image>
+      <keys></keys>
+    </item>
+    <item name="grave">
+      <command>\grave{%1}</command>
+      <toolTip>grave</toolTip>
+      <image>Symbole/grave.png</image>
+      <keys></keys>
+    </item>
+    <item name="breve">
+      <command>\breve{%1}</command>
+      <toolTip>breve</toolTip>
+      <image>Symbole/breve.png</image>
+      <keys></keys>
+    </item>
+    <item name="tilde">
+      <command>\tilde{%1}</command>
+      <toolTip>tilde</toolTip>
+      <image>Symbole/tilde.png</image>
+      <keys></keys>
+    </item>
+    <item name="bar">
+      <command>\bar{%1}</command>
+      <toolTip>bar</toolTip>
+      <image>Symbole/bar.png</image>
+      <keys></keys>
+    </item>
+    <item name="vector">
+      <command>\vec{%1}</command>
+      <toolTip>vector</toolTip>
+      <image>Symbole/vector.png</image>
+      <keys></keys>
+    </item>
+    <item name="ringAbove">
+      <command>\mathring{%1}</command>
+      <toolTip>ringAbove</toolTip>
+      <image>Symbole/ringAbove.png</image>
+      <keys></keys>
+    </item>
+    <item name="braceOver">
+      <command>\overbrace{%1}</command>
+      <toolTip>braceOver</toolTip>
+      <image>Symbole/braceOver.png</image>
+      <keys></keys>
+    </item>
+    <item name="braceUnder">
+      <command>\underbrace{%1}</command>
+      <toolTip>braceUnder</toolTip>
+      <image>Symbole/braceUnder.png</image>
+      <keys></keys>
+    </item>
+    <item name="braceOver2">
+      <command>\overbrace{%1}^{%2}</command>
+      <toolTip>braceOver2</toolTip>
+      <image>Symbole/braceOver2.png</image>
+      <keys></keys>
+    </item>
+    <item name="braceUnder2">
+      <command>\underbrace{%1}_{%2}</command>
+      <toolTip>braceUnder2</toolTip>
+      <image>Symbole/braceUnder2.png</image>
+      <keys></keys>
+    </item>
+    <item name="wideHat">
+      <command>\widehat{%1}</command>
+      <toolTip>wideHat</toolTip>
+      <image>Symbole/wideHat.png</image>
+      <keys></keys>
+    </item>
+    <item name="wideTilde">
+      <command>\widetilde{%1}</command>
+      <toolTip>wideTilde</toolTip>
+      <image>Symbole/wideTilde.png</image>
+      <keys></keys>
+    </item>
+    <item name="lineOver">
+      <command>\overline{%1}</command>
+      <toolTip>lineOver</toolTip>
+      <image>Symbole/lineOver.png</image>
+      <keys></keys>
+    </item>
+    <item name="lineUnder">
+      <command>\underline{%1}</command>
+      <toolTip>lineUnder</toolTip>
+      <image>Symbole/lineUnder.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftArrowOver">
+      <command>\overleftarrow{%1}</command>
+      <toolTip>leftArrowOver</toolTip>
+      <image>Symbole/leftArrowOver.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftArrowUnder">
+      <command>\underleftarrow{%1}</command>
+      <toolTip>leftArrowUnder</toolTip>
+      <image>Symbole/leftArrowUnder.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightArrowOver">
+      <command>\overrightarrow{%1}</command>
+      <toolTip>rightArrowOver</toolTip>
+      <image>Symbole/rightArrowOver.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightArrowUnder">
+      <command>\underrightarrow{%1}</command>
+      <toolTip>rightArrowUnder</toolTip>
+      <image>Symbole/rightArrowUnder.png</image>
+      <keys></keys>
+    </item>
+    <item name="sideArrowOver">
+      <command>\overleftrightarrow{%1}</command>
+      <toolTip>sideArrowOver</toolTip>
+      <image>Symbole/sideArrowOver.png</image>
+      <keys></keys>
+    </item>
+    <item name="sideArrowUnder">
+      <command>\underleftrightarrow{%1}</command>
+      <toolTip>sideArrowUnder</toolTip>
+      <image>Symbole/sideArrowUnder.png</image>
+      <keys></keys>
+    </item>
+    <item name="box">
+      <command>\boxed{%1}</command>
+      <toolTip>box</toolTip>
+      <image>Symbole/box.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Wurzeln</name>
+  <toolTip>Wurzeln</toolTip>
+  <image>Wurzeln/square root.png</image>
+  <items>
+    <item name="square root">
+      <command>\sqrt{%1}</command>
+      <toolTip>square root</toolTip>
+      <image>Wurzeln/square root.png</image>
+      <keys></keys>
+    </item>
+    <item name="root with degree">
+      <command>\sqrt[%1]{%2}</command>
+      <toolTip>root with degree</toolTip>
+      <image>Wurzeln/root with degree.png</image>
+      <keys></keys>
+    </item>
+    <item name="square root">
+      <command>\sqrt[2]{%1}</command>
+      <toolTip>square root</toolTip>
+      <image>Wurzeln/square root.png</image>
+      <keys></keys>
+    </item>
+    <item name="third root">
+      <command>\sqrt[3]{%1}</command>
+      <toolTip>third root</toolTip>
+      <image>Wurzeln/third root.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

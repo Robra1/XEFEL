@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Operatoren2</name>
+  <toolTip>Operatoren</toolTip>
+  <image>Operatoren2/colonEqual.png</image>
+  <items>
+    <item name="colonEqual">
+      <command>:=</command>
+      <toolTip>colonEqual</toolTip>
+      <image>Operatoren2/colonEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="DoubleEqual">
+      <command>==</command>
+      <toolTip>DoubleEqual</toolTip>
+      <image>Operatoren2/DoubleEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="PlusEqual">
+      <command>+=</command>
+      <toolTip>PlusEqual</toolTip>
+      <image>Operatoren2/PlusEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="MinusEqual">
+      <command>-=</command>
+      <toolTip>MinusEqual</toolTip>
+      <image>Operatoren2/MinusEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="ExtendLeft">
+      <command>\xleftarrow{%1}</command>
+      <toolTip>ExtendLeft</toolTip>
+      <image>Operatoren2/ExtendLeft.png</image>
+      <keys></keys>
+    </item>
+    <item name="ExtendRight">
+      <command>\xrightarrow{%1}</command>
+      <toolTip>ExtendRight</toolTip>
+      <image>Operatoren2/ExtendRight.png</image>
+      <keys></keys>
+    </item>
+    <item name="ExtendLeft2">
+      <command>\xleftarrow[%1]{%2}</command>
+      <toolTip>ExtendLeft2</toolTip>
+      <image>Operatoren2/ExtendLeft2.png</image>
+      <keys></keys>
+    </item>
+    <item name="ExtendRight2">
+      <command>\xrightarrow[%1]{%2}</command>
+      <toolTip>ExtendRight2</toolTip>
+      <image>Operatoren2/ExtendRight2.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

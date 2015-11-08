@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Matrix</name>
+  <toolTip>Matrix</toolTip>
+  <image>Matrix/1x2.png</image>
+  <items>
+    <item name="1x2">
+      <command>\begin{matrix} %1 &amp; %2 \end{matrix}</command>
+      <toolTip>1x2</toolTip>
+      <image>Matrix/1x2.png</image>
+      <keys></keys>
+    </item>
+    <item name="2x1">
+      <command>\begin{matrix} %1 \\ %2 \end{matrix}</command>
+      <toolTip>2x1</toolTip>
+      <image>Matrix/2x1.png</image>
+      <keys></keys>
+    </item>
+    <item name="1x3">
+      <command>\begin{matrix} %1 &amp; %2 &amp; %3 \end{matrix}</command>
+      <toolTip>1x3</toolTip>
+      <image>Matrix/1x3.png</image>
+      <keys></keys>
+    </item>
+    <item name="3x1">
+      <command>\begin{matrix} %1 \\ %2 \\ %3 \end{matrix}</command>
+      <toolTip>3x1</toolTip>
+      <image>Matrix/3x1.png</image>
+      <keys></keys>
+    </item>
+    <item name="2x2">
+      <command>\begin{matrix} %1 &amp; %2 \\ %3 &amp; %4 \end{matrix}</command>
+      <toolTip>2x2</toolTip>
+      <image>Matrix/2x2.png</image>
+      <keys></keys>
+    </item>
+    <item name="3x3">
+      <command>\begin{matrix} %1 &amp; %2 &amp; %3 \\ %4 &amp; %5 &amp; %6 \\ %7 &amp; %8 &amp; %9 \end{matrix}</command>
+      <toolTip>3x3</toolTip>
+      <image>Matrix/3x3.png</image>
+      <keys></keys>
+    </item>
+    <item name="2x2Paranthese">
+      <command>\begin{pmatrix} %1 &amp; %2 \\ %3 &amp; %4 \end{pmatrix}</command>
+      <toolTip>2x2Paranthese</toolTip>
+      <image>Matrix/2x2Paranthese.png</image>
+      <keys></keys>
+    </item>
+    <item name="2x2Braces">
+      <command>\begin{Bmatrix} %1 &amp; %2 \\ %3 &amp; %4 \end{Bmatrix}</command>
+      <toolTip>2x2Braces</toolTip>
+      <image>Matrix/2x2Braces.png</image>
+      <keys></keys>
+    </item>
+    <item name="2x2Bracket">
+      <command>\begin{bmatrix} %1 &amp; %2 \\ %3 &amp; %4 \end{bmatrix}</command>
+      <toolTip>2x2Bracket</toolTip>
+      <image>Matrix/2x2Bracket.png</image>
+      <keys></keys>
+    </item>
+    <item name="2x2Vertical">
+      <command>\begin{vmatrix} %1 &amp; %2 \\ %3 &amp; %4 \end{vmatrix}</command>
+      <toolTip>2x2Vertical</toolTip>
+      <image>Matrix/2x2Vertical.png</image>
+      <keys></keys>
+    </item>
+    <item name="2x2DoubleVertical">
+      <command>\begin{Vmatrix} %1 &amp; %2 \\ %3 &amp; %4 \end{Vmatrix}</command>
+      <toolTip>2x2DoubleVertical</toolTip>
+      <image>Matrix/2x2DoubleVertical.png</image>
+      <keys></keys>
+    </item>
+    <item name="1x2Cases">
+      <command>\begin{cases} %1 \\ %2 \end{cases}</command>
+      <toolTip>1x2Cases</toolTip>
+      <image>Matrix/1x2Cases.png</image>
+      <keys></keys>
+    </item>
+    <item name="1x3Cases">
+      <command>\begin{cases} %1 \\ %2 \\ %3 \end{cases}</command>
+      <toolTip>1x3Cases</toolTip>
+      <image>Matrix/1x3Cases.png</image>
+      <keys></keys>
+    </item>
+    <item name="arrayEqual">
+      <command>\begin{eqnarray} %1 &amp; = %2 &amp;  \\ %3 &amp; = %4 &amp;  \end{eqnarray}</command>
+      <toolTip>arrayEqual</toolTip>
+      <image>Matrix/arrayEqual.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

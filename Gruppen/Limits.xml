@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Limits</name>
+  <toolTip>Limits</toolTip>
+  <image>Limits/log.png</image>
+  <items>
+    <item name="log">
+      <command>\log{%1}</command>
+      <toolTip>log</toolTip>
+      <image>Limits/log.png</image>
+      <keys></keys>
+    </item>
+    <item name="log2">
+      <command>\log_{%1}{%2}</command>
+      <toolTip>log2</toolTip>
+      <image>Limits/log2.png</image>
+      <keys></keys>
+    </item>
+    <item name="ln">
+      <command>\ln{%1}</command>
+      <toolTip>ln</toolTip>
+      <image>Limits/ln.png</image>
+      <keys></keys>
+    </item>
+    <item name="Limits">
+      <command>\lim_{%1}{%2}</command>
+      <toolTip>Limits</toolTip>
+      <image>Limits/Limits.png</image>
+      <keys></keys>
+    </item>
+    <item name="Minimum">
+      <command>\min{%1}</command>
+      <toolTip>Minimum</toolTip>
+      <image>Limits/Minimum.png</image>
+      <keys></keys>
+    </item>
+    <item name="Minimum2">
+      <command>\min_{%1}{%2}</command>
+      <toolTip>Minimum2</toolTip>
+      <image>Limits/Minimum2.png</image>
+      <keys></keys>
+    </item>
+    <item name="Maximum">
+      <command>\max{%1}</command>
+      <toolTip>Maximum</toolTip>
+      <image>Limits/Maximum.png</image>
+      <keys></keys>
+    </item>
+    <item name="Maximum2">
+      <command>\max_{%1}{%2}</command>
+      <toolTip>Maximum2</toolTip>
+      <image>Limits/Maximum2.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

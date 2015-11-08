@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Suffix</name>
+  <toolTip>Suffix</toolTip>
+  <image>Suffix/superscript.png</image>
+  <items>
+    <item name="superscript">
+      <command>{%1}^{%2}</command>
+      <toolTip>superscript</toolTip>
+      <image>Suffix/superscript.png</image>
+      <keys></keys>
+    </item>
+    <item name="subscript">
+      <command>{%1}_{%2}</command>
+      <toolTip>subscript</toolTip>
+      <image>Suffix/subscript.png</image>
+      <keys></keys>
+    </item>
+    <item name="super+sub">
+      <command>{%1}_{%2}^{%3}</command>
+      <toolTip>super+sub</toolTip>
+      <image>Suffix/super+sub.png</image>
+      <keys></keys>
+    </item>
+    <item name="sub+super">
+      <command>_{%1}^{%2}{%3}</command>
+      <toolTip>sub+super</toolTip>
+      <image>Suffix/sub+super.png</image>
+      <keys></keys>
+    </item>
+    <item name="above">
+      <command>\overset{%1}{%2}</command>
+      <toolTip>above</toolTip>
+      <image>Suffix/above.png</image>
+      <keys></keys>
+    </item>
+    <item name="under">
+      <command>\underset{%1}{%2}</command>
+      <toolTip>under</toolTip>
+      <image>Suffix/under.png</image>
+      <keys></keys>
+    </item>
+    <item name="aboveUnder">
+      <command>\overset{%1}{\underset{%2}{%3}}</command>
+      <toolTip>aboveUnder</toolTip>
+      <image>Suffix/aboveUnder.png</image>
+      <keys></keys>
+    </item>
+    <item name="subsub">
+      <command>{_{%1}{%2}_{%3}}</command>
+      <toolTip>subsub</toolTip>
+      <image>Suffix/subsub.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

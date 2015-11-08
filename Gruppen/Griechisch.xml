@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Griechisch</name>
+  <toolTip>Griechisch</toolTip>
+  <image>Griechisch/smallAlpha.png</image>
+  <items>
+    <item name="bigAlpha">
+      <command>\Alpha</command>
+      <toolTip>bigAlpha</toolTip>
+      <image>Griechisch/bigAlpha.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallAlpha">
+      <command>\alpha</command>
+      <toolTip>smallAlpha</toolTip>
+      <image>Griechisch/smallAlpha.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigBeta">
+      <command>\Beta</command>
+      <toolTip>bigBeta</toolTip>
+      <image>Griechisch/bigBeta.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallBeta">
+      <command>\beta</command>
+      <toolTip>smallBeta</toolTip>
+      <image>Griechisch/smallBeta.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigGamma">
+      <command>\Gamma</command>
+      <toolTip>bigGamma</toolTip>
+      <image>Griechisch/bigGamma.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallGamma">
+      <command>\gamma</command>
+      <toolTip>smallGamma</toolTip>
+      <image>Griechisch/smallGamma.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigDelta">
+      <command>\Delta</command>
+      <toolTip>bigDelta</toolTip>
+      <image>Griechisch/bigDelta.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallDelta">
+      <command>\delta</command>
+      <toolTip>smallDelta</toolTip>
+      <image>Griechisch/smallDelta.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigEpsilon">
+      <command>\Epsilon</command>
+      <toolTip>bigEpsilon</toolTip>
+      <image>Griechisch/bigEpsilon.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallEpsilon">
+      <command>\epsilon</command>
+      <toolTip>smallEpsilon</toolTip>
+      <image>Griechisch/smallEpsilon.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallEpsilonLunata">
+      <command>\varepsilon</command>
+      <toolTip>smallEpsilonLunata</toolTip>
+      <image>Griechisch/smallEpsilonLunata.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigZeta">
+      <command>\Zeta</command>
+      <toolTip>bigZeta</toolTip>
+      <image>Griechisch/bigZeta.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallZeta">
+      <command>\zeta</command>
+      <toolTip>smallZeta</toolTip>
+      <image>Griechisch/smallZeta.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigEta">
+      <command>\Eta</command>
+      <toolTip>bigEta</toolTip>
+      <image>Griechisch/bigEta.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallEta">
+      <command>\eta</command>
+      <toolTip>smallEta</toolTip>
+      <image>Griechisch/smallEta.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigTheta">
+      <command>\Theta</command>
+      <toolTip>bigTheta</toolTip>
+      <image>Griechisch/bigTheta.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallTheta">
+      <command>\theta</command>
+      <toolTip>smallTheta</toolTip>
+      <image>Griechisch/smallTheta.png</image>
+      <keys></keys>
+    </item>
+    <item name="theta">
+      <command>\vartheta</command>
+      <toolTip>theta</toolTip>
+      <image>Griechisch/theta.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigIota">
+      <command>\Iota</command>
+      <toolTip>bigIota</toolTip>
+      <image>Griechisch/bigIota.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallIota">
+      <command>\iota</command>
+      <toolTip>smallIota</toolTip>
+      <image>Griechisch/smallIota.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigKappa">
+      <command>\Kappa</command>
+      <toolTip>bigKappa</toolTip>
+      <image>Griechisch/bigKappa.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallKappa">
+      <command>\kappa</command>
+      <toolTip>smallKappa</toolTip>
+      <image>Griechisch/smallKappa.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigLamda">
+      <command>\Lambda</command>
+      <toolTip>bigLamda</toolTip>
+      <image>Griechisch/bigLamda.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallLamda">
+      <command>\lambda</command>
+      <toolTip>smallLamda</toolTip>
+      <image>Griechisch/smallLamda.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigMu">
+      <command>\Mu</command>
+      <toolTip>bigMu</toolTip>
+      <image>Griechisch/bigMu.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallMu">
+      <command>\mu</command>
+      <toolTip>smallMu</toolTip>
+      <image>Griechisch/smallMu.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigNu">
+      <command>\Nu</command>
+      <toolTip>bigNu</toolTip>
+      <image>Griechisch/bigNu.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallNu">
+      <command>\nu</command>
+      <toolTip>smallNu</toolTip>
+      <image>Griechisch/smallNu.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigXi">
+      <command>\Xi</command>
+      <toolTip>bigXi</toolTip>
+      <image>Griechisch/bigXi.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallXi">
+      <command>\xi</command>
+      <toolTip>smallXi</toolTip>
+      <image>Griechisch/smallXi.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigPi">
+      <command>\Pi</command>
+      <toolTip>bigPi</toolTip>
+      <image>Griechisch/bigPi.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallPi">
+      <command>\pi</command>
+      <toolTip>smallPi</toolTip>
+      <image>Griechisch/smallPi.png</image>
+      <keys></keys>
+    </item>
+    <item name="pi">
+      <command>\varpi</command>
+      <toolTip>pi</toolTip>
+      <image>Griechisch/pi.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigRho">
+      <command>\Rho</command>
+      <toolTip>bigRho</toolTip>
+      <image>Griechisch/bigRho.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallRho">
+      <command>\rho</command>
+      <toolTip>smallRho</toolTip>
+      <image>Griechisch/smallRho.png</image>
+      <keys></keys>
+    </item>
+    <item name="rho">
+      <command>\varrho</command>
+      <toolTip>rho</toolTip>
+      <image>Griechisch/rho.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigSigma">
+      <command>\Sigma</command>
+      <toolTip>bigSigma</toolTip>
+      <image>Griechisch/bigSigma.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallSigma">
+      <command>\sigma</command>
+      <toolTip>smallSigma</toolTip>
+      <image>Griechisch/smallSigma.png</image>
+      <keys></keys>
+    </item>
+    <item name="sigma">
+      <command>\varsigma</command>
+      <toolTip>sigma</toolTip>
+      <image>Griechisch/sigma.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigTau">
+      <command>\Tau</command>
+      <toolTip>bigTau</toolTip>
+      <image>Griechisch/bigTau.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallTau">
+      <command>\tau</command>
+      <toolTip>smallTau</toolTip>
+      <image>Griechisch/smallTau.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigUpsilon">
+      <command>\Upsilon</command>
+      <toolTip>bigUpsilon</toolTip>
+      <image>Griechisch/bigUpsilon.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallUpsilon">
+      <command>\upsilon</command>
+      <toolTip>smallUpsilon</toolTip>
+      <image>Griechisch/smallUpsilon.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigPhi">
+      <command>\Phi</command>
+      <toolTip>bigPhi</toolTip>
+      <image>Griechisch/bigPhi.png</image>
+      <keys></keys>
+    </item>
+    <item name="phi">
+      <command>\varphi</command>
+      <toolTip>phi</toolTip>
+      <image>Griechisch/phi.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallPhi">
+      <command>\phi</command>
+      <toolTip>smallPhi</toolTip>
+      <image>Griechisch/smallPhi.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigChi">
+      <command>\Chi</command>
+      <toolTip>bigChi</toolTip>
+      <image>Griechisch/bigChi.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallChi">
+      <command>\chi</command>
+      <toolTip>smallChi</toolTip>
+      <image>Griechisch/smallChi.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigPsi">
+      <command>\Psi</command>
+      <toolTip>bigPsi</toolTip>
+      <image>Griechisch/bigPsi.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallPsi">
+      <command>\psi</command>
+      <toolTip>smallPsi</toolTip>
+      <image>Griechisch/smallPsi.png</image>
+      <keys></keys>
+    </item>
+    <item name="bigOmega">
+      <command>\Omega</command>
+      <toolTip>bigOmega</toolTip>
+      <image>Griechisch/bigOmega.png</image>
+      <keys></keys>
+    </item>
+    <item name="smallOmega">
+      <command>\omega</command>
+      <toolTip>smallOmega</toolTip>
+      <image>Griechisch/smallOmega.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

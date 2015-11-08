@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>SonstigeSymbole</name>
+  <toolTip>Sonstige Symbole</toolTip>
+  <image>SonstigeSymbole/infinity.png</image>
+  <items>
+    <item name="infinity">
+      <command>\infty</command>
+      <toolTip>infinity</toolTip>
+      <image>SonstigeSymbole/infinity.png</image>
+      <keys></keys>
+    </item>
+    <item name="root">
+      <command>\surd</command>
+      <toolTip>root</toolTip>
+      <image>SonstigeSymbole/root.png</image>
+      <keys></keys>
+    </item>
+    <item name="emptySet">
+      <command>\emptyset</command>
+      <toolTip>emptySet</toolTip>
+      <image>SonstigeSymbole/emptySet.png</image>
+      <keys></keys>
+    </item>
+    <item name="nabla">
+      <command>\nabla</command>
+      <toolTip>nabla</toolTip>
+      <image>SonstigeSymbole/nabla.png</image>
+      <keys></keys>
+    </item>
+    <item name="blackSquare">
+      <command>\blacksquare</command>
+      <toolTip>blackSquare</toolTip>
+      <image>SonstigeSymbole/blackSquare.png</image>
+      <keys></keys>
+    </item>
+    <item name="notSign">
+      <command>\neg</command>
+      <toolTip>notSign</toolTip>
+      <image>SonstigeSymbole/notSign.png</image>
+      <keys></keys>
+    </item>
+    <item name="horiEllip">
+      <command>\dots</command>
+      <toolTip>horiEllip</toolTip>
+      <image>SonstigeSymbole/horiEllip.png</image>
+      <keys></keys>
+    </item>
+    <item name="vertiEllip">
+      <command>\vdots</command>
+      <toolTip>vertiEllip</toolTip>
+      <image>SonstigeSymbole/vertiEllip.png</image>
+      <keys></keys>
+    </item>
+    <item name="midHoriEllip">
+      <command>\cdots</command>
+      <toolTip>midHoriEllip</toolTip>
+      <image>SonstigeSymbole/midHoriEllip.png</image>
+      <keys></keys>
+    </item>
+    <item name="downRightEllip">
+      <command>\ddots</command>
+      <toolTip>downRightEllip</toolTip>
+      <image>SonstigeSymbole/downRightEllip.png</image>
+      <keys></keys>
+    </item>
+    <item name="angle">
+      <command>\angle</command>
+      <toolTip>angle</toolTip>
+      <image>SonstigeSymbole/angle.png</image>
+      <keys></keys>
+    </item>
+    <item name="measuredAngle">
+      <command>\measuredangle</command>
+      <toolTip>measuredAngle</toolTip>
+      <image>SonstigeSymbole/measuredAngle.png</image>
+      <keys></keys>
+    </item>
+    <item name="sphericalAngle">
+      <command>\sphericalangle</command>
+      <toolTip>sphericalAngle</toolTip>
+      <image>SonstigeSymbole/sphericalAngle.png</image>
+      <keys></keys>
+    </item>
+    <item name="upTack">
+      <command>\bot</command>
+      <toolTip>upTack</toolTip>
+      <image>SonstigeSymbole/upTack.png</image>
+      <keys></keys>
+    </item>
+    <item name="prime">
+      <command>\prime</command>
+      <toolTip>prime</toolTip>
+      <image>SonstigeSymbole/prime.png</image>
+      <keys></keys>
+    </item>
+    <item name="whiteUpSmallTria">
+      <command>\triangle</command>
+      <toolTip>whiteUpSmallTria</toolTip>
+      <image>SonstigeSymbole/whiteUpSmallTria.png</image>
+      <keys></keys>
+    </item>
+    <item name="box">
+      <command>\Box</command>
+      <toolTip>box</toolTip>
+      <image>SonstigeSymbole/box.png</image>
+      <keys></keys>
+    </item>
+    <item name="diaOp">
+      <command>\Diamond</command>
+      <toolTip>diaOp</toolTip>
+      <image>SonstigeSymbole/diaOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="downTack">
+      <command>\top</command>
+      <toolTip>downTack</toolTip>
+      <image>SonstigeSymbole/downTack.png</image>
+      <keys></keys>
+    </item>
+    <item name="whiteDiamond">
+      <command>\diamondsuit</command>
+      <toolTip>whiteDiamond</toolTip>
+      <image>SonstigeSymbole/whiteDiamond.png</image>
+      <keys></keys>
+    </item>
+    <item name="whiteHeart">
+      <command>\heartsuit</command>
+      <toolTip>whiteHeart</toolTip>
+      <image>SonstigeSymbole/whiteHeart.png</image>
+      <keys></keys>
+    </item>
+    <item name="blackClub">
+      <command>\clubsuit</command>
+      <toolTip>blackClub</toolTip>
+      <image>SonstigeSymbole/blackClub.png</image>
+      <keys></keys>
+    </item>
+    <item name="blackSpade">
+      <command>\spadesuit</command>
+      <toolTip>blackSpade</toolTip>
+      <image>SonstigeSymbole/blackSpade.png</image>
+      <keys></keys>
+    </item>
+    <item name="musicFlat">
+      <command>\flat</command>
+      <toolTip>musicFlat</toolTip>
+      <image>SonstigeSymbole/musicFlat.png</image>
+      <keys></keys>
+    </item>
+    <item name="musicNatural">
+      <command>\natural</command>
+      <toolTip>musicNatural</toolTip>
+      <image>SonstigeSymbole/musicNatural.png</image>
+      <keys></keys>
+    </item>
+    <item name="musicSharp">
+      <command>\sharp</command>
+      <toolTip>musicSharp</toolTip>
+      <image>SonstigeSymbole/musicSharp.png</image>
+      <keys></keys>
+    </item>
+    <item name="section">
+      <command>\S</command>
+      <toolTip>section</toolTip>
+      <image>SonstigeSymbole/section.png</image>
+      <keys></keys>
+    </item>
+    <item name="pilcrow">
+      <command>\P</command>
+      <toolTip>pilcrow</toolTip>
+      <image>SonstigeSymbole/pilcrow.png</image>
+      <keys></keys>
+    </item>
+    <item name="copyright">
+      <command>\copyright</command>
+      <toolTip>copyright</toolTip>
+      <image>SonstigeSymbole/copyright.png</image>
+      <keys></keys>
+    </item>
+    <item name="pounds">
+      <command>\pounds</command>
+      <toolTip>pounds</toolTip>
+      <image>SonstigeSymbole/pounds.png</image>
+      <keys></keys>
+    </item>
+    <item name="planck">
+      <command>\hslash</command>
+      <toolTip>planck</toolTip>
+      <image>SonstigeSymbole/planck.png</image>
+      <keys></keys>
+    </item>
+    <item name="circleS">
+      <command>\circledS</command>
+      <toolTip>circleS</toolTip>
+      <image>SonstigeSymbole/circleS.png</image>
+      <keys></keys>
+    </item>
+    <item name="blackUpSmallTria">
+      <command>\blacktriangle</command>
+      <toolTip>blackUpSmallTria</toolTip>
+      <image>SonstigeSymbole/blackUpSmallTria.png</image>
+      <keys></keys>
+    </item>
+    <item name="whiteDownSmallTria">
+      <command>\triangledown</command>
+      <toolTip>whiteDownSmallTria</toolTip>
+      <image>SonstigeSymbole/whiteDownSmallTria.png</image>
+      <keys></keys>
+    </item>
+    <item name="blackDownSmallTria">
+      <command>\blacktriangledown   </command>
+      <toolTip>blackDownSmallTria</toolTip>
+      <image>SonstigeSymbole/blackDownSmallTria.png</image>
+      <keys></keys>
+    </item>
+    <item name="blackLozenge">
+      <command>\blacklozenge</command>
+      <toolTip>blackLozenge</toolTip>
+      <image>SonstigeSymbole/blackLozenge.png</image>
+      <keys></keys>
+    </item>
+    <item name="blackStar">
+      <command>\bigstar</command>
+      <toolTip>blackStar</toolTip>
+      <image>SonstigeSymbole/blackStar.png</image>
+      <keys></keys>
+    </item>
+    <item name="boxDrawingUp">
+      <command>\diagup</command>
+      <toolTip>boxDrawingUp</toolTip>
+      <image>SonstigeSymbole/boxDrawingUp.png</image>
+      <keys></keys>
+    </item>
+    <item name="boxDrawingDown">
+      <command>\diagdown</command>
+      <toolTip>boxDrawingDown</toolTip>
+      <image>SonstigeSymbole/boxDrawingDown.png</image>
+      <keys></keys>
+    </item>
+    <item name="reversedPrime">
+      <command>\backprime</command>
+      <toolTip>reversedPrime</toolTip>
+      <image>SonstigeSymbole/reversedPrime.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

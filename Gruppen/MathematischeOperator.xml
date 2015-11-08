@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>MathematischeOperator</name>
+  <toolTip>Mathematischer Operator</toolTip>
+  <image>MathematischeOperator/plus.png</image>
+  <items>
+    <item name="plus">
+      <command>+</command>
+      <toolTip>plus</toolTip>
+      <image>MathematischeOperator/plus.png</image>
+      <keys></keys>
+    </item>
+    <item name="minus">
+      <command>-</command>
+      <toolTip>minus</toolTip>
+      <image>MathematischeOperator/minus.png</image>
+      <keys></keys>
+    </item>
+    <item name="solidus">
+      <command>\div</command>
+      <toolTip>solidus</toolTip>
+      <image>MathematischeOperator/solidus.png</image>
+      <keys></keys>
+    </item>
+    <item name="asterisk">
+      <command>\times</command>
+      <toolTip>asterisk</toolTip>
+      <image>MathematischeOperator/asterisk.png</image>
+      <keys></keys>
+    </item>
+    <item name="plusMinus">
+      <command>\pm</command>
+      <toolTip>plusMinus</toolTip>
+      <image>MathematischeOperator/plusMinus.png</image>
+      <keys></keys>
+    </item>
+    <item name="minusPlus">
+      <command>\mp</command>
+      <toolTip>minusPlus</toolTip>
+      <image>MathematischeOperator/minusPlus.png</image>
+      <keys></keys>
+    </item>
+    <item name="solidus">
+      <command>/</command>
+      <toolTip>solidus</toolTip>
+      <image>MathematischeOperator/solidus.png</image>
+      <keys></keys>
+    </item>
+    <item name="asteriskOp">
+      <command>\ast</command>
+      <toolTip>asteriskOp</toolTip>
+      <image>MathematischeOperator/asteriskOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="ring">
+      <command>\circ</command>
+      <toolTip>ring</toolTip>
+      <image>MathematischeOperator/ring.png</image>
+      <keys></keys>
+    </item>
+    <item name="bullet">
+      <command>\bullet</command>
+      <toolTip>bullet</toolTip>
+      <image>MathematischeOperator/bullet.png</image>
+      <keys></keys>
+    </item>
+    <item name="dotOp">
+      <command>\cdot</command>
+      <toolTip>dotOp</toolTip>
+      <image>MathematischeOperator/dotOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="intersection">
+      <command>\cap</command>
+      <toolTip>intersection</toolTip>
+      <image>MathematischeOperator/intersection.png</image>
+      <keys></keys>
+    </item>
+    <item name="union">
+      <command>\cup</command>
+      <toolTip>union</toolTip>
+      <image>MathematischeOperator/union.png</image>
+      <keys></keys>
+    </item>
+    <item name="multisetUnion">
+      <command>\uplus</command>
+      <toolTip>multisetUnion</toolTip>
+      <image>MathematischeOperator/multisetUnion.png</image>
+      <keys></keys>
+    </item>
+    <item name="squareIntersection">
+      <command>\sqcap</command>
+      <toolTip>squareIntersection</toolTip>
+      <image>MathematischeOperator/squareIntersection.png</image>
+      <keys></keys>
+    </item>
+    <item name="squareUnion">
+      <command>\sqcup</command>
+      <toolTip>squareUnion</toolTip>
+      <image>MathematischeOperator/squareUnion.png</image>
+      <keys></keys>
+    </item>
+    <item name="logAnd">
+      <command>\wedge</command>
+      <toolTip>logAnd</toolTip>
+      <image>MathematischeOperator/logAnd.png</image>
+      <keys></keys>
+    </item>
+    <item name="logOr">
+      <command>\vee</command>
+      <toolTip>logOr</toolTip>
+      <image>MathematischeOperator/logOr.png</image>
+      <keys></keys>
+    </item>
+    <item name="equal">
+      <command>=</command>
+      <toolTip>equal</toolTip>
+      <image>MathematischeOperator/equal.png</image>
+      <keys></keys>
+    </item>
+    <item name="notEqual">
+      <command>\neq</command>
+      <toolTip>notEqual</toolTip>
+      <image>MathematischeOperator/notEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="less">
+      <command>&lt;</command>
+      <toolTip>less</toolTip>
+      <image>MathematischeOperator/less.png</image>
+      <keys></keys>
+    </item>
+    <item name="greater">
+      <command>&gt;</command>
+      <toolTip>greater</toolTip>
+      <image>MathematischeOperator/greater.png</image>
+      <keys></keys>
+    </item>
+    <item name="lessEqual">
+      <command>\le </command>
+      <toolTip>lessEqual</toolTip>
+      <image>MathematischeOperator/lessEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="greaterEqual">
+      <command>\ge </command>
+      <toolTip>greaterEqual</toolTip>
+      <image>MathematischeOperator/greaterEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="notLess">
+      <command>\nless </command>
+      <toolTip>notLess</toolTip>
+      <image>MathematischeOperator/notLess.png</image>
+      <keys></keys>
+    </item>
+    <item name="notLessEqual">
+      <command>\nleq </command>
+      <toolTip>notLessEqual</toolTip>
+      <image>MathematischeOperator/notLessEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="notGreater">
+      <command>\ngtr </command>
+      <toolTip>notGreater</toolTip>
+      <image>MathematischeOperator/notGreater.png</image>
+      <keys></keys>
+    </item>
+    <item name="notGreaterEqual">
+      <command>\ngeq </command>
+      <toolTip>notGreaterEqual</toolTip>
+      <image>MathematischeOperator/notGreaterEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="identical">
+      <command>\equiv </command>
+      <toolTip>identical</toolTip>
+      <image>MathematischeOperator/identical.png</image>
+      <keys></keys>
+    </item>
+    <item name="tildeOp">
+      <command>\sim </command>
+      <toolTip>tildeOp</toolTip>
+      <image>MathematischeOperator/tildeOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="asymptoticallyEqual">
+      <command>\simeq </command>
+      <toolTip>asymptoticallyEqual</toolTip>
+      <image>MathematischeOperator/asymptoticallyEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="almostEqual">
+      <command>\approx </command>
+      <toolTip>almostEqual</toolTip>
+      <image>MathematischeOperator/almostEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="approxEqual">
+      <command>\cong </command>
+      <toolTip>approxEqual</toolTip>
+      <image>MathematischeOperator/approxEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="notTilde">
+      <command>\nsim </command>
+      <toolTip>notTilde</toolTip>
+      <image>MathematischeOperator/notTilde.png</image>
+      <keys></keys>
+    </item>
+    <item name="notApproxEqual">
+      <command>\ncong </command>
+      <toolTip>notApproxEqual</toolTip>
+      <image>MathematischeOperator/notApproxEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="proport">
+      <command>\propto </command>
+      <toolTip>proport</toolTip>
+      <image>MathematischeOperator/proport.png</image>
+      <keys></keys>
+    </item>
+    <item name="muchLess">
+      <command>\ll </command>
+      <toolTip>muchLess</toolTip>
+      <image>MathematischeOperator/muchLess.png</image>
+      <keys></keys>
+    </item>
+    <item name="muchGreater">
+      <command>\gg </command>
+      <toolTip>muchGreater</toolTip>
+      <image>MathematischeOperator/muchGreater.png</image>
+      <keys></keys>
+    </item>
+    <item name="setMember">
+      <command>\in </command>
+      <toolTip>setMember</toolTip>
+      <image>MathematischeOperator/setMember.png</image>
+      <keys></keys>
+    </item>
+    <item name="owns">
+      <command>\ni </command>
+      <toolTip>owns</toolTip>
+      <image>MathematischeOperator/owns.png</image>
+      <keys></keys>
+    </item>
+    <item name="notElem">
+      <command>\notin </command>
+      <toolTip>notElem</toolTip>
+      <image>MathematischeOperator/notElem.png</image>
+      <keys></keys>
+    </item>
+    <item name="subset">
+      <command>\subset </command>
+      <toolTip>subset</toolTip>
+      <image>MathematischeOperator/subset.png</image>
+      <keys></keys>
+    </item>
+    <item name="superset">
+      <command>\supset </command>
+      <toolTip>superset</toolTip>
+      <image>MathematischeOperator/superset.png</image>
+      <keys></keys>
+    </item>
+    <item name="subsetEqual">
+      <command>\subseteq </command>
+      <toolTip>subsetEqual</toolTip>
+      <image>MathematischeOperator/subsetEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="supersetEqual">
+      <command>\supseteq </command>
+      <toolTip>supersetEqual</toolTip>
+      <image>MathematischeOperator/supersetEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="precedes">
+      <command>\prec </command>
+      <toolTip>precedes</toolTip>
+      <image>MathematischeOperator/precedes.png</image>
+      <keys></keys>
+    </item>
+    <item name="succeeds">
+      <command>\succ </command>
+      <toolTip>succeeds</toolTip>
+      <image>MathematischeOperator/succeeds.png</image>
+      <keys></keys>
+    </item>
+    <item name="preceq">
+      <command>\preceq </command>
+      <toolTip>preceq</toolTip>
+      <image>MathematischeOperator/preceq.png</image>
+      <keys></keys>
+    </item>
+    <item name="rankHigherEqual">
+      <command>\succeq </command>
+      <toolTip>rankHigherEqual</toolTip>
+      <image>MathematischeOperator/rankHigherEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="precedesSimiliar">
+      <command>\precsim </command>
+      <toolTip>precedesSimiliar</toolTip>
+      <image>MathematischeOperator/precedesSimiliar.png</image>
+      <keys></keys>
+    </item>
+    <item name="succeedsSimiliar">
+      <command>\succsim </command>
+      <toolTip>succeedsSimiliar</toolTip>
+      <image>MathematischeOperator/succeedsSimiliar.png</image>
+      <keys></keys>
+    </item>
+    <item name="squareSubset">
+      <command>\sqsubset </command>
+      <toolTip>squareSubset</toolTip>
+      <image>MathematischeOperator/squareSubset.png</image>
+      <keys></keys>
+    </item>
+    <item name="squareSuperset">
+      <command>\sqsupset </command>
+      <toolTip>squareSuperset</toolTip>
+      <image>MathematischeOperator/squareSuperset.png</image>
+      <keys></keys>
+    </item>
+    <item name="squareSubsetEqual">
+      <command>\sqsubseteq </command>
+      <toolTip>squareSubsetEqual</toolTip>
+      <image>MathematischeOperator/squareSubsetEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="squareSupersetEqual">
+      <command>\sqsupseteq </command>
+      <toolTip>squareSupersetEqual</toolTip>
+      <image>MathematischeOperator/squareSupersetEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="vertLine">
+      <command>|</command>
+      <toolTip>vertLine</toolTip>
+      <image>MathematischeOperator/vertLine.png</image>
+      <keys></keys>
+    </item>
+    <item name="parallel">
+      <command>\parallel </command>
+      <toolTip>parallel</toolTip>
+      <image>MathematischeOperator/parallel.png</image>
+      <keys></keys>
+    </item>
+    <item name="assertion">
+      <command>\vdash </command>
+      <toolTip>assertion</toolTip>
+      <image>MathematischeOperator/assertion.png</image>
+      <keys></keys>
+    </item>
+    <item name="turnstile">
+      <command>\dashv </command>
+      <toolTip>turnstile</toolTip>
+      <image>MathematischeOperator/turnstile.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleRightTee">
+      <command>\models </command>
+      <toolTip>doubleRightTee</toolTip>
+      <image>MathematischeOperator/doubleRightTee.png</image>
+      <keys></keys>
+    </item>
+    <item name="bowtie">
+      <command>\bowtie</command>
+      <toolTip>bowtie</toolTip>
+      <image>MathematischeOperator/bowtie.png</image>
+      <keys></keys>
+    </item>
+    <item name="equivalent">
+      <command>\asymp</command>
+      <toolTip>equivalent</toolTip>
+      <image>MathematischeOperator/equivalent.png</image>
+      <keys></keys>
+    </item>
+    <item name="clockwiseIntegral">
+      <command>∱</command>
+      <toolTip>clockwiseIntegral</toolTip>
+      <image>MathematischeOperator/clockwiseIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="clockwiseContourIntegral">
+      <command>∲</command>
+      <toolTip>clockwiseContourIntegral</toolTip>
+      <image>MathematischeOperator/clockwiseContourIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="anticlockwiseIntegral">
+      <command>∳</command>
+      <toolTip>anticlockwiseIntegral</toolTip>
+      <image>MathematischeOperator/anticlockwiseIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="circleDotOp">
+      <command>\bigodot</command>
+      <toolTip>circleDotOp</toolTip>
+      <image>MathematischeOperator/circleDotOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="circleTimesOp">
+      <command>\bigotimes</command>
+      <toolTip>circleTimesOp</toolTip>
+      <image>MathematischeOperator/circleTimesOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="circlePlusOp">
+      <command>\bigoplus</command>
+      <toolTip>circlePlusOp</toolTip>
+      <image>MathematischeOperator/circlePlusOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="unionOpPlus">
+      <command>\biguplus</command>
+      <toolTip>unionOpPlus</toolTip>
+      <image>MathematischeOperator/unionOpPlus.png</image>
+      <keys></keys>
+    </item>
+    <item name="dotPlus">
+      <command>\dotplus</command>
+      <toolTip>dotPlus</toolTip>
+      <image>MathematischeOperator/dotPlus.png</image>
+      <keys></keys>
+    </item>
+    <item name="setMinus">
+      <command>\setminus</command>
+      <toolTip>setMinus</toolTip>
+      <image>MathematischeOperator/setMinus.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleIntersect">
+      <command>\doublecap</command>
+      <toolTip>doubleIntersect</toolTip>
+      <image>MathematischeOperator/doubleIntersect.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleUnion">
+      <command>\doublecup</command>
+      <toolTip>doubleUnion</toolTip>
+      <image>MathematischeOperator/doubleUnion.png</image>
+      <keys></keys>
+    </item>
+    <item name="squaredMinus">
+      <command>\boxminus</command>
+      <toolTip>squaredMinus</toolTip>
+      <image>MathematischeOperator/squaredMinus.png</image>
+      <keys></keys>
+    </item>
+    <item name="squaredTimes">
+      <command>\boxtimes</command>
+      <toolTip>squaredTimes</toolTip>
+      <image>MathematischeOperator/squaredTimes.png</image>
+      <keys></keys>
+    </item>
+    <item name="squaredDot">
+      <command>\boxdot</command>
+      <toolTip>squaredDot</toolTip>
+      <image>MathematischeOperator/squaredDot.png</image>
+      <keys></keys>
+    </item>
+    <item name="squaredPlus">
+      <command>\boxplus</command>
+      <toolTip>squaredPlus</toolTip>
+      <image>MathematischeOperator/squaredPlus.png</image>
+      <keys></keys>
+    </item>
+    <item name="divisionTimes">
+      <command>\divideontimes</command>
+      <toolTip>divisionTimes</toolTip>
+      <image>MathematischeOperator/divisionTimes.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledDash">
+      <command>\circleddash</command>
+      <toolTip>circledDash</toolTip>
+      <image>MathematischeOperator/circledDash.png</image>
+      <keys></keys>
+    </item>
+    <item name="intercalate">
+      <command>\intercal</command>
+      <toolTip>intercalate</toolTip>
+      <image>MathematischeOperator/intercalate.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledPlus">
+      <command>\oplus</command>
+      <toolTip>circledPlus</toolTip>
+      <image>MathematischeOperator/circledPlus.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledMinus">
+      <command>\ominus</command>
+      <toolTip>circledMinus</toolTip>
+      <image>MathematischeOperator/circledMinus.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledTimes">
+      <command>\otimes</command>
+      <toolTip>circledTimes</toolTip>
+      <image>MathematischeOperator/circledTimes.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledSlash">
+      <command>\oslash</command>
+      <toolTip>circledSlash</toolTip>
+      <image>MathematischeOperator/circledSlash.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledDot">
+      <command>\odot</command>
+      <toolTip>circledDot</toolTip>
+      <image>MathematischeOperator/circledDot.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledAsterisk">
+      <command>\circledast</command>
+      <toolTip>circledAsterisk</toolTip>
+      <image>MathematischeOperator/circledAsterisk.png</image>
+      <keys></keys>
+    </item>
+    <item name="circledRing">
+      <command>\circledcirc</command>
+      <toolTip>circledRing</toolTip>
+      <image>MathematischeOperator/circledRing.png</image>
+      <keys></keys>
+    </item>
+    <item name="dagger">
+      <command>\dagger</command>
+      <toolTip>dagger</toolTip>
+      <image>MathematischeOperator/dagger.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleDagger">
+      <command>\ddagger</command>
+      <toolTip>doubleDagger</toolTip>
+      <image>MathematischeOperator/doubleDagger.png</image>
+      <keys></keys>
+    </item>
+    <item name="starOp">
+      <command>\star</command>
+      <toolTip>starOp</toolTip>
+      <image>MathematischeOperator/starOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="diamondOp">
+      <command>\diamond</command>
+      <toolTip>diamondOp</toolTip>
+      <image>MathematischeOperator/diamondOp.png</image>
+      <keys></keys>
+    </item>
+    <item name="wreathProd">
+      <command>\wr</command>
+      <toolTip>wreathProd</toolTip>
+      <image>MathematischeOperator/wreathProd.png</image>
+      <keys></keys>
+    </item>
+    <item name="therefore">
+      <command>\therefore</command>
+      <toolTip>therefore</toolTip>
+      <image>MathematischeOperator/therefore.png</image>
+      <keys></keys>
+    </item>
+    <item name="because">
+      <command>\because</command>
+      <toolTip>because</toolTip>
+      <image>MathematischeOperator/because.png</image>
+      <keys></keys>
+    </item>
+    <item name="veryMuchLess">
+      <command>\llless</command>
+      <toolTip>veryMuchLess</toolTip>
+      <image>MathematischeOperator/veryMuchLess.png</image>
+      <keys></keys>
+    </item>
+    <item name="veryMuchGreater">
+      <command>\gggtr</command>
+      <toolTip>veryMuchGreater</toolTip>
+      <image>MathematischeOperator/veryMuchGreater.png</image>
+      <keys></keys>
+    </item>
+    <item name="lessOverEqual">
+      <command>\leqq</command>
+      <toolTip>lessOverEqual</toolTip>
+      <image>MathematischeOperator/lessOverEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="greaterOverEqual">
+      <command>\geqq</command>
+      <toolTip>greaterOverEqual</toolTip>
+      <image>MathematischeOperator/greaterOverEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="lessEquiv">
+      <command>\lesssim</command>
+      <toolTip>lessEquiv</toolTip>
+      <image>MathematischeOperator/lessEquiv.png</image>
+      <keys></keys>
+    </item>
+    <item name="greaterEquiv">
+      <command>\gtrsim</command>
+      <toolTip>greaterEquiv</toolTip>
+      <image>MathematischeOperator/greaterEquiv.png</image>
+      <keys></keys>
+    </item>
+    <item name="lessDot">
+      <command>\lessdot</command>
+      <toolTip>lessDot</toolTip>
+      <image>MathematischeOperator/lessDot.png</image>
+      <keys></keys>
+    </item>
+    <item name="greaterDot">
+      <command>\gtrdot</command>
+      <toolTip>greaterDot</toolTip>
+      <image>MathematischeOperator/greaterDot.png</image>
+      <keys></keys>
+    </item>
+    <item name="lessGreater">
+      <command>\lessgtr</command>
+      <toolTip>lessGreater</toolTip>
+      <image>MathematischeOperator/lessGreater.png</image>
+      <keys></keys>
+    </item>
+    <item name="greaterLess">
+      <command>\gtrless</command>
+      <toolTip>greaterLess</toolTip>
+      <image>MathematischeOperator/greaterLess.png</image>
+      <keys></keys>
+    </item>
+    <item name="lessEqualGreater">
+      <command>\lesseqgtr</command>
+      <toolTip>lessEqualGreater</toolTip>
+      <image>MathematischeOperator/lessEqualGreater.png</image>
+      <keys></keys>
+    </item>
+    <item name="greaterEqualLess">
+      <command>\gtreqless</command>
+      <toolTip>greaterEqualLess</toolTip>
+      <image>MathematischeOperator/greaterEqualLess.png</image>
+      <keys></keys>
+    </item>
+    <item name="geometricallyEqual">
+      <command>\doteqdot</command>
+      <toolTip>geometricallyEqual</toolTip>
+      <image>MathematischeOperator/geometricallyEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="approxEqualOrImage">
+      <command>\fallingdotseq</command>
+      <toolTip>approxEqualOrImage</toolTip>
+      <image>MathematischeOperator/approxEqualOrImage.png</image>
+      <keys></keys>
+    </item>
+    <item name="imageOrApproxEqual">
+      <command>\risingdotseq</command>
+      <toolTip>imageOrApproxEqual</toolTip>
+      <image>MathematischeOperator/imageOrApproxEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="largeLeftTriangle">
+      <command>\lhd</command>
+      <toolTip>largeLeftTriangle</toolTip>
+      <image>MathematischeOperator/largeLeftTriangle.png</image>
+      <keys></keys>
+    </item>
+    <item name="largeRightTriangle">
+      <command>\rhd</command>
+      <toolTip>largeRightTriangle</toolTip>
+      <image>MathematischeOperator/largeRightTriangle.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftTriangleEquals">
+      <command>\unlhd</command>
+      <toolTip>leftTriangleEquals</toolTip>
+      <image>MathematischeOperator/leftTriangleEquals.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightTriangleEquals">
+      <command>\unrhd</command>
+      <toolTip>rightTriangleEquals</toolTip>
+      <image>MathematischeOperator/rightTriangleEquals.png</image>
+      <keys></keys>
+    </item>
+    <item name="reversedTilde">
+      <command>\backsim</command>
+      <toolTip>reversedTilde</toolTip>
+      <image>MathematischeOperator/reversedTilde.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleSubset">
+      <command>\Subset</command>
+      <toolTip>doubleSubset</toolTip>
+      <image>MathematischeOperator/doubleSubset.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleSuperset">
+      <command>\Supset</command>
+      <toolTip>doubleSuperset</toolTip>
+      <image>MathematischeOperator/doubleSuperset.png</image>
+      <keys></keys>
+    </item>
+    <item name="forces">
+      <command>\Vdash</command>
+      <toolTip>forces</toolTip>
+      <image>MathematischeOperator/forces.png</image>
+      <keys></keys>
+    </item>
+    <item name="triVertRightTurn">
+      <command>\Vvdash</command>
+      <toolTip>triVertRightTurn</toolTip>
+      <image>MathematischeOperator/triVertRightTurn.png</image>
+      <keys></keys>
+    </item>
+    <item name="ringInEqual">
+      <command>\eqcirc</command>
+      <toolTip>ringInEqual</toolTip>
+      <image>MathematischeOperator/ringInEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="ringEqual">
+      <command>\circeq</command>
+      <toolTip>ringEqual</toolTip>
+      <image>MathematischeOperator/ringEqual.png</image>
+      <keys></keys>
+    </item>
+    <item name="diffBetween">
+      <command>\bumpeq</command>
+      <toolTip>diffBetween</toolTip>
+      <image>MathematischeOperator/diffBetween.png</image>
+      <keys></keys>
+    </item>
+    <item name="between">
+      <command>\between</command>
+      <toolTip>between</toolTip>
+      <image>MathematischeOperator/between.png</image>
+      <keys></keys>
+    </item>
+    <item name="pitchfork">
+      <command>\pitchfork</command>
+      <toolTip>pitchfork</toolTip>
+      <image>MathematischeOperator/pitchfork.png</image>
+      <keys></keys>
+    </item>
+    <item name="approachLimit">
+      <command>\doteq</command>
+      <toolTip>approachLimit</toolTip>
+      <image>MathematischeOperator/approachLimit.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

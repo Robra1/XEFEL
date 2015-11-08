@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Brüche</name>
+  <toolTip>Brüche</toolTip>
+  <image>Brüche/fraction.png</image>
+  <items>
+    <item name="fraction">
+      <command>\frac{%1}{%2}</command>
+      <toolTip>fraction</toolTip>
+      <image>Brüche/fraction.png</image>
+      <keys>ctrl a</keys>
+    </item>
+    <item name="glantedFraction">
+      <command>\sfrac{%1}{%2}</command>
+      <toolTip>glantedFraction</toolTip>
+      <image>Brüche/glantedFraction.png</image>
+      <keys>ctrl alt b</keys>
+    </item>
+    <item name="linearFraction">
+      <command>{%1}/{%2}</command>
+      <toolTip>linearFraction</toolTip>
+      <image>Brüche/linearFraction.png</image>
+      <keys></keys>
+    </item>
+    <item name="continuesFraction">
+      <command>\cfrac{%1}{%2}</command>
+      <toolTip>continuesFraction</toolTip>
+      <image>Brüche/continuesFraction.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

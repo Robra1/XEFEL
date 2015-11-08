@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Funktionen</name>
+  <toolTip>Funktionen</toolTip>
+  <image>Funktionen/fx.png</image>
+  <items>
+    <item name="fx">
+      <command>f\left(x\right)</command>
+      <toolTip>fx</toolTip>
+      <image>Funktionen/fx.png</image>
+      <keys></keys>
+    </item>
+    <item name="fx1">
+      <command>f^{%1}\left(x\right)</command>
+      <toolTip>fx1</toolTip>
+      <image>Funktionen/fx1.png</image>
+      <keys></keys>
+    </item>
+    <item name="gx">
+      <command>g\left(x\right)</command>
+      <toolTip>gx</toolTip>
+      <image>Funktionen/gx.png</image>
+      <keys></keys>
+    </item>
+    <item name="gx1">
+      <command>g^{%1}\left(x\right)</command>
+      <toolTip>gx1</toolTip>
+      <image>Funktionen/gx1.png</image>
+      <keys></keys>
+    </item>
+    <item name="hx">
+      <command>h\left(x\right)</command>
+      <toolTip>hx</toolTip>
+      <image>Funktionen/hx.png</image>
+      <keys></keys>
+    </item>
+    <item name="hx1">
+      <command>h^{%1}\left(x\right)</command>
+      <toolTip>hx1</toolTip>
+      <image>Funktionen/hx1.png</image>
+      <keys></keys>
+    </item>
+    <item name="sinus">
+      <command>\sin{%1}</command>
+      <toolTip>sinus</toolTip>
+      <image>Funktionen/sinus.png</image>
+      <keys></keys>
+    </item>
+    <item name="kosinus">
+      <command>\cos{%1}</command>
+      <toolTip>kosinus</toolTip>
+      <image>Funktionen/kosinus.png</image>
+      <keys></keys>
+    </item>
+    <item name="tangens">
+      <command>\tan{%1}</command>
+      <toolTip>tangens</toolTip>
+      <image>Funktionen/tangens.png</image>
+      <keys></keys>
+    </item>
+    <item name="kotangens">
+      <command>\cot{%1}</command>
+      <toolTip>kotangens</toolTip>
+      <image>Funktionen/kotangens.png</image>
+      <keys></keys>
+    </item>
+    <item name="kosekans">
+      <command>\csc{%1}</command>
+      <toolTip>kosekans</toolTip>
+      <image>Funktionen/kosekans.png</image>
+      <keys></keys>
+    </item>
+    <item name="sekans">
+      <command>\sec{%1}</command>
+      <toolTip>sekans</toolTip>
+      <image>Funktionen/sekans.png</image>
+      <keys></keys>
+    </item>
+    <item name="arcsin">
+      <command>\arcsin{%1}</command>
+      <toolTip>arcsin</toolTip>
+      <image>Funktionen/arcsin.png</image>
+      <keys></keys>
+    </item>
+    <item name="arccos">
+      <command>\arccos{%1}</command>
+      <toolTip>arccos</toolTip>
+      <image>Funktionen/arccos.png</image>
+      <keys></keys>
+    </item>
+    <item name="arctan">
+      <command>\arctan{%1}</command>
+      <toolTip>arctan</toolTip>
+      <image>Funktionen/arctan.png</image>
+      <keys></keys>
+    </item>
+    <item name="arcotangent">
+      <command>\arccot{%1}</command>
+      <toolTip>arcotangent</toolTip>
+      <image>Funktionen/arcotangent.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicSine">
+      <command>\sinh{%1}</command>
+      <toolTip>hyperbolicSine</toolTip>
+      <image>Funktionen/hyperbolicSine.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicCosine">
+      <command>\cosh{%1}</command>
+      <toolTip>hyperbolicCosine</toolTip>
+      <image>Funktionen/hyperbolicCosine.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicTangent">
+      <command>\tanh{%1}</command>
+      <toolTip>hyperbolicTangent</toolTip>
+      <image>Funktionen/hyperbolicTangent.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicCotangent">
+      <command>\coth{%1}</command>
+      <toolTip>hyperbolicCotangent</toolTip>
+      <image>Funktionen/hyperbolicCotangent.png</image>
+      <keys></keys>
+    </item>
+    <item name="sinus2">
+      <command>\sin^{%1}{%2}</command>
+      <toolTip>sinus2</toolTip>
+      <image>Funktionen/sinus2.png</image>
+      <keys></keys>
+    </item>
+    <item name="kosinus2">
+      <command>\cos^{%1}{%2}</command>
+      <toolTip>kosinus2</toolTip>
+      <image>Funktionen/kosinus2.png</image>
+      <keys></keys>
+    </item>
+    <item name="tangens2">
+      <command>\tan^{%1}{%2}</command>
+      <toolTip>tangens2</toolTip>
+      <image>Funktionen/tangens2.png</image>
+      <keys></keys>
+    </item>
+    <item name="kotangens2">
+      <command>\cot^{%1}{%2}</command>
+      <toolTip>kotangens2</toolTip>
+      <image>Funktionen/kotangens2.png</image>
+      <keys></keys>
+    </item>
+    <item name="kosekans2">
+      <command>\csc^{%1}{%2}</command>
+      <toolTip>kosekans2</toolTip>
+      <image>Funktionen/kosekans2.png</image>
+      <keys></keys>
+    </item>
+    <item name="sekans2">
+      <command>\sec^{%1}{%2}</command>
+      <toolTip>sekans2</toolTip>
+      <image>Funktionen/sekans2.png</image>
+      <keys></keys>
+    </item>
+    <item name="arcsin2">
+      <command>\arcsin^{%1}{%2}</command>
+      <toolTip>arcsin2</toolTip>
+      <image>Funktionen/arcsin2.png</image>
+      <keys></keys>
+    </item>
+    <item name="arccos2">
+      <command>\arccos^{%1}{%2}</command>
+      <toolTip>arccos2</toolTip>
+      <image>Funktionen/arccos2.png</image>
+      <keys></keys>
+    </item>
+    <item name="arctan2">
+      <command>\arctan^{%1}{%2}</command>
+      <toolTip>arctan2</toolTip>
+      <image>Funktionen/arctan2.png</image>
+      <keys></keys>
+    </item>
+    <item name="arcotangent2">
+      <command>\arccot^{%1}{%2}</command>
+      <toolTip>arcotangent2</toolTip>
+      <image>Funktionen/arcotangent2.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicSine2">
+      <command>\sinh^{%1}{%2}</command>
+      <toolTip>hyperbolicSine2</toolTip>
+      <image>Funktionen/hyperbolicSine2.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicCosine2">
+      <command>\cosh^{%1}{%2}</command>
+      <toolTip>hyperbolicCosine2</toolTip>
+      <image>Funktionen/hyperbolicCosine2.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicTangent2">
+      <command>\tanh^{%1}{%2}</command>
+      <toolTip>hyperbolicTangent2</toolTip>
+      <image>Funktionen/hyperbolicTangent2.png</image>
+      <keys></keys>
+    </item>
+    <item name="hyperbolicCotangent2">
+      <command>\coth^{%1}{%2}</command>
+      <toolTip>hyperbolicCotangent2</toolTip>
+      <image>Funktionen/hyperbolicCotangent2.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

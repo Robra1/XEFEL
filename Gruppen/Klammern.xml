@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Klammern</name>
+  <toolTip>Klammern</toolTip>
+  <image>Klammern/parantheses.png</image>
+  <items>
+    <item name="parantheses">
+      <command>\left( %1 \right)</command>
+      <toolTip>parantheses</toolTip>
+      <image>Klammern/parantheses.png</image>
+      <keys></keys>
+    </item>
+    <item name="squareBrackets">
+      <command>\left[ %1 \right]</command>
+      <toolTip>squareBrackets</toolTip>
+      <image>Klammern/squareBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="braces">
+      <command>\left\{ %1 \right\}</command>
+      <toolTip>braces</toolTip>
+      <image>Klammern/braces.png</image>
+      <keys></keys>
+    </item>
+    <item name="angledBrackets">
+      <command>\left&lt; %1 \right&gt;</command>
+      <toolTip>angledBrackets</toolTip>
+      <image>Klammern/angledBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="floorBracktes">
+      <command>\left\lfloor %1 \right\rfloor</command>
+      <toolTip>floorBracktes</toolTip>
+      <image>Klammern/floorBracktes.png</image>
+      <keys></keys>
+    </item>
+    <item name="ceilBrackets">
+      <command>\left\lceil %1 \right\rceil</command>
+      <toolTip>ceilBrackets</toolTip>
+      <image>Klammern/ceilBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="absoluteValue">
+      <command>\left| %1 \right|</command>
+      <toolTip>absoluteValue</toolTip>
+      <image>Klammern/absoluteValue.png</image>
+      <keys></keys>
+    </item>
+    <item name="norm">
+      <command>\left\| %1 \right\|</command>
+      <toolTip>norm</toolTip>
+      <image>Klammern/norm.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleSquareBrackets">
+      <command>\left\[ %1 \right\]</command>
+      <toolTip>doubleSquareBrackets</toolTip>
+      <image>Klammern/doubleSquareBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="paranthesesVerticalBar">
+      <command>\left({%1}|{%2}\right)</command>
+      <toolTip>paranthesesVerticalBar</toolTip>
+      <image>Klammern/paranthesesVerticalBar.png</image>
+      <keys></keys>
+    </item>
+    <item name="bracesVerticalBar">
+      <command>\left\{{%1}|{%2}\right\}</command>
+      <toolTip>bracesVerticalBar</toolTip>
+      <image>Klammern/bracesVerticalBar.png</image>
+      <keys></keys>
+    </item>
+    <item name="angledBracketsVerticalBar">
+      <command>\left&lt;{%1}|{%2}\right&gt;</command>
+      <toolTip>angledBracketsVerticalBar</toolTip>
+      <image>Klammern/angledBracketsVerticalBar.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftParantheses">
+      <command>\left( %1 \right</command>
+      <toolTip>leftParantheses</toolTip>
+      <image>Klammern/leftParantheses.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightParantheses">
+      <command>\left %1 \right)</command>
+      <toolTip>rightParantheses</toolTip>
+      <image>Klammern/rightParantheses.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftSquareBracket">
+      <command>\left[ %1 \right</command>
+      <toolTip>leftSquareBracket</toolTip>
+      <image>Klammern/leftSquareBracket.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightSquareBracket">
+      <command>\left %1 \right]</command>
+      <toolTip>rightSquareBracket</toolTip>
+      <image>Klammern/rightSquareBracket.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftBrace">
+      <command>\left\ %1 {\right</command>
+      <toolTip>leftBrace</toolTip>
+      <image>Klammern/leftBrace.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightBrace">
+      <command>\left %1 \right\}</command>
+      <toolTip>rightBrace</toolTip>
+      <image>Klammern/rightBrace.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftAngledBrackets">
+      <command>\left&lt; %1 \right</command>
+      <toolTip>leftAngledBrackets</toolTip>
+      <image>Klammern/leftAngledBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightAngledBrackets">
+      <command>\left %1 \right&gt;</command>
+      <toolTip>rightAngledBrackets</toolTip>
+      <image>Klammern/rightAngledBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftFloorBracket">
+      <command>\left\lfloor %1 \right</command>
+      <toolTip>leftFloorBracket</toolTip>
+      <image>Klammern/leftFloorBracket.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightFloorBracket">
+      <command>\left %1 \right\rfloor</command>
+      <toolTip>rightFloorBracket</toolTip>
+      <image>Klammern/rightFloorBracket.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftCeilBrackets">
+      <command>\left\lceil %1 \right</command>
+      <toolTip>leftCeilBrackets</toolTip>
+      <image>Klammern/leftCeilBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightCeilBrackets">
+      <command>\left %1 \right\rceil</command>
+      <toolTip>rightCeilBrackets</toolTip>
+      <image>Klammern/rightCeilBrackets.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftVerticalBar">
+      <command>\left| %1 \right</command>
+      <toolTip>leftVerticalBar</toolTip>
+      <image>Klammern/leftVerticalBar.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightVerticalBar">
+      <command>\left %1 \right|</command>
+      <toolTip>rightVerticalBar</toolTip>
+      <image>Klammern/rightVerticalBar.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftDoubleVerticalBar">
+      <command>\left\| %1 \right</command>
+      <toolTip>leftDoubleVerticalBar</toolTip>
+      <image>Klammern/leftDoubleVerticalBar.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightDoubleVerticalBar">
+      <command>\left %1 \right\|</command>
+      <toolTip>rightDoubleVerticalBar</toolTip>
+      <image>Klammern/rightDoubleVerticalBar.png</image>
+      <keys></keys>
+    </item>
+    <item name="leftDoubleSquareBracket">
+      <command>\left\[ %1 \right</command>
+      <toolTip>leftDoubleSquareBracket</toolTip>
+      <image>Klammern/leftDoubleSquareBracket.png</image>
+      <keys></keys>
+    </item>
+    <item name="rightDoubleSquareBracket">
+      <command>\left %1 \right\]</command>
+      <toolTip>rightDoubleSquareBracket</toolTip>
+      <image>Klammern/rightDoubleSquareBracket.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

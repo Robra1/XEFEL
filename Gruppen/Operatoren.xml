@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Operatoren</name>
+  <toolTip>Operatoren</toolTip>
+  <image>Operatoren/Summe.png</image>
+  <items>
+    <item name="Summe">
+      <command>\sum{%1}</command>
+      <toolTip>Summe</toolTip>
+      <image>Operatoren/Summe.png</image>
+      <keys></keys>
+    </item>
+    <item name="Summe2">
+      <command>\sum_{%1}^{%2}{%3}</command>
+      <toolTip>Summe2</toolTip>
+      <image>Operatoren/Summe2.png</image>
+      <keys></keys>
+    </item>
+    <item name="Produkt">
+      <command>\prod{%1}</command>
+      <toolTip>Produkt</toolTip>
+      <image>Operatoren/Produkt.png</image>
+      <keys></keys>
+    </item>
+    <item name="Produkt2">
+      <command>\prod_{%1}^{%2}{%3}</command>
+      <toolTip>Produkt2</toolTip>
+      <image>Operatoren/Produkt2.png</image>
+      <keys></keys>
+    </item>
+    <item name="Co-Produkt">
+      <command>\coprod{%1}</command>
+      <toolTip>Co-Produkt</toolTip>
+      <image>Operatoren/Co-Produkt.png</image>
+      <keys></keys>
+    </item>
+    <item name="Co-Produkt2">
+      <command>\coprod_{%1}^{%2}{%3}</command>
+      <toolTip>Co-Produkt2</toolTip>
+      <image>Operatoren/Co-Produkt2.png</image>
+      <keys></keys>
+    </item>
+    <item name="Union">
+      <command>\bigcup{%1}</command>
+      <toolTip>Union</toolTip>
+      <image>Operatoren/Union.png</image>
+      <keys></keys>
+    </item>
+    <item name="Union2">
+      <command>\bigcup_{%1}^{%2}{%3}</command>
+      <toolTip>Union2</toolTip>
+      <image>Operatoren/Union2.png</image>
+      <keys></keys>
+    </item>
+    <item name="Intersection">
+      <command>\bigcap{%1}</command>
+      <toolTip>Intersection</toolTip>
+      <image>Operatoren/Intersection.png</image>
+      <keys></keys>
+    </item>
+    <item name="Intersection2">
+      <command>\bigcap_{%1}^{%2}{%3}</command>
+      <toolTip>Intersection2</toolTip>
+      <image>Operatoren/Intersection2.png</image>
+      <keys></keys>
+    </item>
+    <item name="BigVee">
+      <command>\bigvee{%1}</command>
+      <toolTip>BigVee</toolTip>
+      <image>Operatoren/BigVee.png</image>
+      <keys></keys>
+    </item>
+    <item name="BigVee2">
+      <command>\bigvee_{%1}^{%2}{%3}</command>
+      <toolTip>BigVee2</toolTip>
+      <image>Operatoren/BigVee2.png</image>
+      <keys></keys>
+    </item>
+    <item name="BigWedge">
+      <command>\bigwedge{%1}</command>
+      <toolTip>BigWedge</toolTip>
+      <image>Operatoren/BigWedge.png</image>
+      <keys></keys>
+    </item>
+    <item name="BigWedge2">
+      <command>\bigwedge_{%1}^{%2}{%3}</command>
+      <toolTip>BigWedge2</toolTip>
+      <image>Operatoren/BigWedge2.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>

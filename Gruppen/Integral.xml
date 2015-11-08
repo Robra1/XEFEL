@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Gruppe>
+  <name>Integral</name>
+  <toolTip>Integral</toolTip>
+  <image>Integral/indefiniteIntegral.png</image>
+  <items>
+    <item name="indefiniteIntegral">
+      <command>\int{%1}</command>
+      <toolTip>indefiniteIntegral</toolTip>
+      <image>Integral/indefiniteIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="definiteIntegral">
+      <command>\int_{%1}^{%2}{%3}</command>
+      <toolTip>definiteIntegral</toolTip>
+      <image>Integral/definiteIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleIntegral">
+      <command>\iint{%1}</command>
+      <toolTip>doubleIntegral</toolTip>
+      <image>Integral/doubleIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="doubleIntegral2">
+      <command>\iint_{%1}^{%2}{%3}</command>
+      <toolTip>doubleIntegral2</toolTip>
+      <image>Integral/doubleIntegral2.png</image>
+      <keys></keys>
+    </item>
+    <item name="tripleIntegral">
+      <command>\iiint{%1}</command>
+      <toolTip>tripleIntegral</toolTip>
+      <image>Integral/tripleIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="tripleIntegral2">
+      <command>\iiint{%1}</command>
+      <toolTip>tripleIntegral2</toolTip>
+      <image>Integral/tripleIntegral2.png</image>
+      <keys></keys>
+    </item>
+    <item name="fourIntegral">
+      <command>\iiiint{%1}</command>
+      <toolTip>fourIntegral</toolTip>
+      <image>Integral/fourIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="fourIntegral2">
+      <command>\iiiint_{%1}^{%2}{%3}</command>
+      <toolTip>fourIntegral2</toolTip>
+      <image>Integral/fourIntegral2.png</image>
+      <keys></keys>
+    </item>
+    <item name="lineIntegral">
+      <command>\oint{%1}</command>
+      <toolTip>lineIntegral</toolTip>
+      <image>Integral/lineIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="lineIntegral2">
+      <command>\oint_{%1}^{%2}{%3}</command>
+      <toolTip>lineIntegral2</toolTip>
+      <image>Integral/lineIntegral2.png</image>
+      <keys></keys>
+    </item>
+    <item name="surfaceIntegral">
+      <command>\oiint{%1}</command>
+      <toolTip>surfaceIntegral</toolTip>
+      <image>Integral/surfaceIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="surfaceIntegral2">
+      <command>\oiint_{%1}^{%2}{%3}</command>
+      <toolTip>surfaceIntegral2</toolTip>
+      <image>Integral/surfaceIntegral2.png</image>
+      <keys></keys>
+    </item>
+    <item name="volumeIntegral">
+      <command>\oiiint{%1}</command>
+      <toolTip>surfaceIntegral2</toolTip>
+      <image>Integral/volumeIntegral.png</image>
+      <keys></keys>
+    </item>
+    <item name="volumeIntegral">
+      <command>\oiiint_{%1}^{%2}{%3}</command>
+      <toolTip>surfaceIntegral2</toolTip>
+      <image>Integral/volumeIntegral.png</image>
+      <keys></keys>
+    </item>
+  </items>
+</Gruppe>
